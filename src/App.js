@@ -3,9 +3,7 @@ import Counters from './components/Counters'
 const App = () => {
 
   return (
-    <div>
       <Counters/>
-    </div>
   )
 }
 
